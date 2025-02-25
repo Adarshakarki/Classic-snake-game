@@ -16,3 +16,13 @@ A modern take on the classic Snake game, built with HTML, CSS, and JavaScript, f
 4️⃣ Try to beat your high score!</br>
 
 🚀 A fun and addictive game perfect for desktop users!
+
+## Preview
+### Home
+![Home](https://github.com/Adarshakarki/Classic-snake-game/blob/a12b00e2e990ae0965e577eeb72a185540205ede/Screenshots/Screenshot%202025-02-25%20124131.png)
+
+### Game
+![Game](https://github.com/Adarshakarki/Classic-snake-game/blob/main/Screenshots/Screenshot%202025-02-25%20124211.png)
+
+## Try It Out
+## https://adarshakarki.github.io/Classic-snake-game/
